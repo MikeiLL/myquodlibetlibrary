@@ -1,0 +1,86 @@
+[settings]
+columns = ~#track,~people,~title~version,~album~discsubtitle,~#length,~rating
+	
+default_rating = 0.5
+scan = /Volumes/Oggun/Music Library
+
+[memory]
+browser = Playlists
+browser_filesystem_maximized = 0
+browser_filesystem_position = 826 158
+browser_filesystem_size_ = 1129 507
+browser_playlistsbrowser_maximized = 0
+browser_playlistsbrowser_position = 0 25
+browser_playlistsbrowser_size_ = 600 400
+chooser_dir = /Users/mikekilmer
+column_expands = ~people,1,~title~version,1,~album~discsubtitle,1
+	
+column_widths = ~people,-1,~title~version,-1,~album~discsubtitle,-1
+	
+open_browsers = 
+plugin_prefs_maximized = 0
+plugin_prefs_position = 85 168
+plugin_prefs_size_ = 750 500
+plugin_selection = CustomCommands
+prefs_page = songlist
+queue = False
+queue_disable = False
+queue_expanded = False
+queue_position = 0.6995565410199557
+quodlibet_information_maximized = 0
+quodlibet_information_position = 499 0
+quodlibet_information_size_ = 1048 437
+quodlibet_last_active_version = 4.4.0
+quodlibet_maximized = 0
+quodlibet_position = 508 35
+quodlibet_properties_maximized = 0
+quodlibet_properties_pos = 0.4
+quodlibet_properties_position = 388 299
+quodlibet_properties_size_single = 495 400
+quodlibet_size_ = 1544 968
+repeat = True
+repeat_mode = repeat_song
+seek = 9389
+shuffle = False
+sidebar_pos = 0.25
+song = /Volumes/Oggun/Music Library/Afrocuban/Alberto Ferbst Rodriguez/YORUBA/ABBILONA/5-Abbilona 2 Tambor Yoruba10.mp3
+sortby = 
+	
+volume = 1.0
+
+[player]
+gst_buffer = 3.0
+is_playing = True
+replaygain = true
+replaygain_mode = auto
+
+[browsers]
+albumlist_pos = 0.4001572327044025
+collectionbrowser_pos = 0.4001572327044025
+filesystem = /Volumes/Oggun/Music Library/Orisha Music/Skoog/Conga Book/4-04a-Dahomey-arara
+filesystem_pos = 0.40566873339238263
+pane_selection = 1	.
+	1	.
+panedbrowser_pane_widths = 0.5
+	
+panedbrowser_pos = 0.4019607843137255
+playlist = Beyond Salsa – Pre-Revolution
+playlistsbrowser_pos = 0.31994818652849744
+query_text = 
+
+[plugins]
+active_plugins = 
+scrobbler_service = Last.fm
+
+[__config__]
+version = 0
+
+[rename]
+windows = true
+
+[albumart]
+prefer_embedded = true
+
+[editing]
+save_email = mike@mzoo.org
+
